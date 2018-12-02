@@ -2,3 +2,5 @@
 adding a line
 
 here's another line
+
+This is a line from R Studio
